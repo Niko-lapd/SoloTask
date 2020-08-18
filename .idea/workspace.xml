@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2bfefc6-a485-4df0-aa3b-613b4c496b6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bellenblazen/Style 1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bellenblazen/Style 2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bellenblazen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bellenblazen/informatie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DOM/Script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DOM/Stylsheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DOM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DOM/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functies/Crookapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functies/Imageslider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functies/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTLM/H04/Burton/BurtonStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTLM/H04/Formulier/Stylesheet.Formulier.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTLM/H04/StyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/Script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yes yes its me/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../response/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../response/Stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BierHier/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html002/Deensakkje.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../htmlh03/fillop.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gHGHyyO7YqGPbvCAAxNE9jkRev" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DOM" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/IntakeProject/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2bfefc6-a485-4df0-aa3b-613b4c496b6d" name="Default Changelist" comment="" />
+      <created>1597764020809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597764020809</updated>
+      <workItem from="1597764021950" duration="5457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
